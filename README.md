@@ -473,7 +473,7 @@ backend/keras_model.keras
 
 ### Step 3: Start the Frontend
 
-Open a second terminal in the main project folder and run:
+Open a integrated terminal  for src folder in the main project:
 
 ```powershell
 npm install

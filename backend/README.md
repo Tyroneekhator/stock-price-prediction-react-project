@@ -6,6 +6,9 @@ The project started as a Python/Streamlit machine learning application, but it h
 
 ---
 
+## Live demo
+[stock price prediction demo](https://drive.google.com/file/d/1MVziGXgl-6GnK7xSpdbSh8uyMQiPaR3x/view?usp=drive_link) 
+
 ## Table of Contents
 
 - [Project Overview](#project-overview)
